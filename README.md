@@ -81,6 +81,6 @@ The dataset is simulated using classical beam theory and is not based on experim
 This project demonstrates how Machine Learning can be applied to Mechanical Engineering problems. It uses beam parameters to predict cantilever beam deflection and evaluates the performance of different regression algorithms.
 
 ## 11. Author
-Student Name: [Your Name]  
-Roll Number: [Your Roll Number]  
+Student Name: Ishant and Sameer Kumar Sambhavam 
+Roll Number: 230410104009 and 230410104019
 Subject: AIMLP-004 – Artificial Intelligence and its Applications

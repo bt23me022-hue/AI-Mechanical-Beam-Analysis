@@ -1,0 +1,6 @@
+{
+    "Model": "Random Forest Regression",
+    "Mean Absolute Error": 0.28792050428332244,
+    "R2 Score": 0.960890175148541,
+    "Dataset Samples": 1000
+}
